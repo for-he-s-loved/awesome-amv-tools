@@ -79,6 +79,12 @@ AMV editing has been a craft for 25+ years — from Premiere and Sony Vegas in t
 - **AnimeMusicVideos.org guides** — Old but the fundamentals haven't changed.
 - **Editing Theory videos** — General editing channels like "Every Frame a Painting" and "This Guy Edits" inform AMV pacing.
 
+## Related lists
+
+- [awesome-beat-sync-video-editors](https://github.com/for-he-s-loved/awesome-beat-sync-video-editors) — full beat-sync editor reference
+- [awesome-capcut-alternatives](https://github.com/for-he-s-loved/awesome-capcut-alternatives) — CapCut alternatives by use case
+- [Beat Finder](https://for-he-s-loved.github.io/beat-finder/) — free browser BPM detector, useful for first-pass beat alignment on AMV music
+
 ## Contributing
 
 PRs welcome. Add real tools you actually use. No promotional fluff.
