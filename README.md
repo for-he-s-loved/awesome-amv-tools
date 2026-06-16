@@ -83,6 +83,7 @@ AMV editing has been a craft for 25+ years — from Premiere and Sony Vegas in t
 
 - [awesome-beat-sync-video-editors](https://github.com/for-he-s-loved/awesome-beat-sync-video-editors) — full beat-sync editor reference
 - [awesome-capcut-alternatives](https://github.com/for-he-s-loved/awesome-capcut-alternatives) — CapCut alternatives by use case
+- [awesome-free-video-editors](https://github.com/for-he-s-loved/awesome-free-video-editors) — free video editors across browser, desktop, mobile, open-source
 - [Beat Finder](https://for-he-s-loved.github.io/beat-finder/) — free browser BPM detector, useful for first-pass beat alignment on AMV music
 
 ## Contributing
